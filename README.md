@@ -3,54 +3,6 @@
 **Software Developer | 1337 Student | Full-Stack Engineer**
 
 I'm a passionate developer focused on building efficient and scalable applications. Currently mastering low-level programming through the 42 curriculum while developing modern web applications with the MERN stack.
-
-## 🛠️ Tech Stack
-
-**Languages:**
-- C
-- JavaScript (ES6+)
-- Python
-
-**Frontend:**
-- React
-- HTML5 & CSS3
-- Tailwind CSS
-
-**Backend:**
-- Node.js
-- Express.js
-
-**Database:**
-- MongoDB
-
-**Tools & Others:**
-- Git & GitHub
-- Linux/Unix
-- RESTful APIs
-- Postman
-
-## 📌 Featured Projects
-
-### [Libft](https://github.com/marwan-km/libft)
-Custom C library implementation of standard functions. A foundational project that demonstrates deep understanding of memory management and low-level programming.
-- **Tech:** C
-- **Highlights:** Memory-safe implementations, comprehensive testing
-
-### [Get Next Line](https://github.com/marwan-km/get_next_line)
-Efficient file reading function that handles multiple file descriptors using static variables and optimized buffer management.
-- **Tech:** C
-- **Highlights:** Static variables, memory optimization
-
-### [ft_printf](https://github.com/marwan-km/ft_printf)
-Recreation of the printf function with support for multiple format specifiers using variadic functions.
-- **Tech:** C
-- **Highlights:** Variadic functions, recursive algorithms
-
-### [Jobster App](https://github.com/marwan-km/jobster)
-Full-stack job management application with user authentication and CRUD operations.
-- **Tech:** MongoDB, Express.js, React, Node.js
-- **Highlights:** JWT authentication, responsive design
-
 ## 📊 GitHub Stats
 
 ![Marwane's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-km&show_icons=true&theme=radical)
